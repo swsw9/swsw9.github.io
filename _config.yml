@@ -1,7 +1,5 @@
-url: "https://swsw9.github.io"
-
 title: SEONWOO KIM
-author: GitHub User
+author: swsw9
 email: sogongyeo@gmail.com
 description: "Hello! Welcome to my wonderful blog. Here, I plan to cover software development, tech knowledge, research topics, and everyday stories." 
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -16,6 +14,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
+  #analytics_id: "< YOUR ID >"
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/pass.jpg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
@@ -49,8 +48,8 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
+#header_pages:
+# - about.md
 
 # Build settings
 theme: plainwhite
