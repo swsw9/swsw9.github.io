@@ -2,6 +2,7 @@ title: SEONWOO KIM
 author: swsw9
 email: sogongyeo@gmail.com
 description: "Hello! Welcome to my wonderful blog. Here, I plan to cover software development, tech knowledge, research topics, and everyday stories." 
+url: "https://swsw9.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -26,7 +27,7 @@ plainwhite:
   social_links:
     #twitter: samarsault
     github:  swsw9
-    #linkedIn: in/samarsault
+    linkedIn: /seonwoo-kim-179350274
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
