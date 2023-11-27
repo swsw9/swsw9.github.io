@@ -1,10 +1,11 @@
+url: "https://swsw9.github.io"
+baseurl: "" # 비워두세요
+
 title: SEONWOO KIM
 author: GitHub User
 email: sogongyeo@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Hello! Welcome to my wonderful blog. Here, I plan to cover software development, tech knowledge, research topics, and everyday stories. 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -27,8 +28,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    github:  https://github.com/swsw9
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -38,7 +39,8 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: sogongyeo@gmail.com
+
 
     # Mastodon instances
     # mastodon:
