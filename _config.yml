@@ -1,3 +1,5 @@
+remote_theme: samarsault/plainwhite-jekyll
+
 title: SEONWOO KIM
 author: swsw9
 email: sogongyeo@gmail.com
@@ -27,7 +29,7 @@ plainwhite:
   social_links:
     #twitter: samarsault
     github:  swsw9
-    linkedIn: /seonwoo-kim-179350274
+    linkedIn: in/seonwoo-kim-179350274
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
