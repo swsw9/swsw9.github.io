@@ -1,4 +1,4 @@
-remote_theme: samarsault/plainwhite-jekyll
+"#theme: samarsault/plainwhite-jekyll"
 gem "plainwhite"
 title: SEONWOO KIM
 author: swsw9
