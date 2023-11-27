@@ -1,13 +1,10 @@
-"#theme samarsault/plainwhite-jekyll"
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 title: SEONWOO KIM
 author: swsw9
-url: "https://swsw9.github.io"
 email: sogongyeo@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Hello! Welcome to my wonderful blog. Here, I plan to cover software development, tech knowledge, research topics, and everyday stories." 
+url: "https://swsw9.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,13 +12,14 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Seonwoo Kim
+  tagline: SW Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
+  #analytics_id: "< YOUR ID >"
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/pass.jpg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
@@ -29,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  swsw9
+    linkedIn: in/seonwoo-kim-179350274
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -41,7 +39,8 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: sogongyeo@gmail.com
+
 
     # Mastodon instances
     # mastodon:
